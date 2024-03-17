@@ -73,8 +73,8 @@ def plot_area_and_trajectory(area, trajectory):
 
 
 # Пример использования
-area = np.array([[0, 1, 1, 1, 1],
-                [0, 1, 1, 1, 1],
+area = np.array([[1, 1, 1, 1, 1],
+                [1, 1, 1, 1, 1],
                 [1, 1, 1, 0, 0],
                 [0, 0, 0, 1, 1],
                 [0, 0, 0, 1, 1]])
